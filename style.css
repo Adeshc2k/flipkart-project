@@ -1,0 +1,66 @@
+/* navbar css */
+
+
+.navbar-brand{
+  color: #ffffff;
+  font-weight: bolder;
+  margin-left: 7rem;
+}
+
+.form-control{
+  width: 30rem;
+}
+
+.btn-1{
+  color: blue;
+  margin-left: 2rem;
+
+}
+
+.nav-link{
+  margin-left: 3rem;
+  color: #fff;
+  font-weight: bolder;
+}
+
+/* top offer css */
+
+.topoffer-img{
+  width: 4rem;
+  margin-left: 7rem;
+  margin-top: 1rem;
+}
+
+.Topoffer-info{
+  margin-left: 7.5rem;
+  font-size: 1rem;
+}
+
+/* items css */
+
+.item-img{
+  margin-top: 1.7rem;
+
+}
+
+.item-name{
+  margin-left: 3.7rem;
+  margin-top: 1rem;
+}
+
+.item-heading{
+  text-align: center;
+  margin-top: 1.5rem;
+}
+
+#item-button{
+  margin: 1rem 3rem;
+}
+
+/* footer css */
+#footer-div{
+  background-color: #2146C7;
+  padding: 3%;
+  color: #fff;
+list-style: none;
+}
